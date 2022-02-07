@@ -7,7 +7,7 @@ categories: datascience
 
 Every junior data scientist will face SQL query and basic data manipulations test.
 
-The idea is not to confused by language syntax and case by case business needs. All data paradigm can be reduced to one sentence. Always start from the end data table your clients want.
+The idea is not to be confused by language syntax and case by case business needs. All data paradigm can be reduced to one sentence. Always start from the end data table your clients want.
 
 From specific table(s), filter or apply based on multiple business needs and then recombine. 
 
