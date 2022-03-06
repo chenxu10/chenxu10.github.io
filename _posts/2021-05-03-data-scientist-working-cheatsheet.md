@@ -63,11 +63,11 @@ saves you hours or work in debugging, recalling and guessing your past self.
 5. Where can find related references, notes and tools?
 
 ### STYLES OF DOCUMENTATION
-One topic at a paragraph. 
+1. One topic at a paragraph. 
 
-Begin with topic sentence and follow with a specific example. Don’t forget examples.
+2. Begin with topic sentence and follow with a specific example. Don’t forget examples.
 
-Use positive and active tones. 
+3. Use positive and active tones. 
 
 Negative: He is not often on time.
 
