@@ -4,6 +4,9 @@ title:  "Data Scientists' Working Cheatsheet"
 date:   2021-05-03 16:45:30 -0500
 categories: datascience
 ---
+## A Data Scientists' Core metrics
+
+M = How fast you can build a workable solution X How fast your machine can run your soltion X How much and how large positive impact your solution can make 
 
 ## How to communicate and sell your model?
 
