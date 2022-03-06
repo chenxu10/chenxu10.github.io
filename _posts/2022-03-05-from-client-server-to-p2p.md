@@ -38,19 +38,19 @@ From a data structure perspective, web3's foundation blockchains are nothing mor
 
 In order to understand how P2P works, you will need to understand:
 
-- [x] Internet Routing and how Internet works
+- Internet Routing and how Internet works
 
 Try `ping yuba.stanford.edu` and `traceroute yuba.stanford.edu`. You will find what paths information packets take and how long does it take to travel back and forth between the start place and California.
 
-- [x] [TCP vs UDP](https://www.diffen.com/difference/TCP_vs_UDP)
+- [TCP vs UDP](https://www.diffen.com/difference/TCP_vs_UDP)
 
 TCP is a connection-oriented protocol and UDP is a connectionless one. UDP is faster, used more in video streaming, gaming, and live broadcasts. But it cannot guarantee the delivery of the packet and packets don't necessarily arrive in order like TCP.
 
-- [x] [Packets, Routers, and reliability](https://www.youtube.com/watch?v=aD_yi5VjF78)
+- [Packets, Routers, and reliability](https://www.youtube.com/watch?v=aD_yi5VjF78)
 
 The best way to learn these concepts is by listening to the 'Father of Internet' Vint Cerf explaining those concepts himself. Data are broken into packets with IP addresses indicating their destinations. Routers play roles of data management or you can think of them as traffic managers on the road to keep packets moving through the network smoothly.
 
-- [x] [Gossip protocols and flooding](https://en.wikipedia.org/wiki/Flooding_(computer_networking))
+- [Gossip protocols and flooding](https://en.wikipedia.org/wiki/Flooding_(computer_networking))
 
 Public blockchains usually spread messages by gossip protocols. The main algorithm used in this protocol is called flooding. Flooding means every incoming packet is sent through every outgoing link except the one it arrived on.
 
