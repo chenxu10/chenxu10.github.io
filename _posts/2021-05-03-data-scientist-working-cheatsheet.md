@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Scientists' Working Cheatsheet"
+title:  "Data Scientists' Working Cheatsheet(ongoing)"
 date:   2021-05-03 16:45:30 -0500
 categories: datascience
 ---
@@ -23,8 +23,10 @@ Whatever your pitch is, include these seven talking points will definitely help:
 7. Ask questions, critics, feedbacks and concerns from audience.
 
 
-## Data Manipulation in One Sentence: Split,Apply, and Combine
+## How to get your data fast?
+1. [sanpy for web3 data](https://github.com/santiment/sanpy)
 
+## How to manipulate your dataframe fast?
 Every junior data scientist will face SQL query and basic data manipulations test.
 
 The idea is not to be confused by language syntax and case by case business needs. All data paradigm can be reduced to one sentence. Always start from the end data table your clients want.
@@ -66,6 +68,7 @@ saves you hours or work in debugging, recalling and guessing your past self.
 5. Where can find related references, notes and tools?
 
 ### STYLES OF DOCUMENTATION
+
 1. One topic at a paragraph. 
 
 2. Begin with topic sentence and follow with a specific example. Don’t forget examples.
@@ -75,3 +78,4 @@ saves you hours or work in debugging, recalling and guessing your past self.
 Negative: He is not often on time.
 
 Positive: He usually comes late.
+
