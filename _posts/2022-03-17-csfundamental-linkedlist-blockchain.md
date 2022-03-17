@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CS Fundamentals of Cryptocurrency(1): Linkedlist and Blockchain"
-date:   2022-03-17 17:15:30 -0500
+date:   2022-03-14 17:15:30 -0500
 categories: cryptoeconomy
 ---
 
