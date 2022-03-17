@@ -2,7 +2,7 @@
 layout: post
 title:  "CS Fundamentals of Cryptocurrency(1): Linkedlist and Blockchain"
 date:   2022-03-14 17:15:30 -0500
-categories: cryptoeconomy
+categories: crypto
 ---
 
 Linked list is a data structure that contains a sequence of nodes such that each node contains an object and reference to the next object. It has two main types: singly linked list and doubly linked list.
