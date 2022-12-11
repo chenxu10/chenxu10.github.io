@@ -5,7 +5,7 @@ date:   2022-12-10 10:59:30 -0500
 categories: clean code
 ---
 
-# Junior vs Senior Data Scientist
+# Test Driven Development from a Risk Managment Perspective
 
 If we treat each programming task as a transaction between our carbon-based brains and our silicon-based brains, we can combine the best practices of the centuries-old art of trading and the craft of programming.
 
