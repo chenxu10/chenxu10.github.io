@@ -5,12 +5,14 @@ Create your new post as a Markdown file in the _posts directory of your Jekyll p
 Add the front matter to your post. The front matter is a block of YAML code at the top of the file that specifies metadata for the post, such as the title, date, and categories. Here is an example of the front matter for a post:
 
 Copy code
+
 ---
 layout: post
 title: "My First Blog Post"
 date: 2021-01-01
 categories: jekyll
 ---
+
 Write the content of your post in Markdown format below the front matter. Markdown is a simple markup language that allows you to format your text using easy-to-read and easy-to-write plain text.
 
 Commit your changes to the _posts directory and push them to your GitHub repository. This will trigger a build on the GitHub Pages server, which will generate your website using the Jekyll files from your repository.
