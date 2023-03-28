@@ -21,4 +21,4 @@ The table below shows the corresponding relationship between risk management str
 |----------|----------|----------|
 |Spread|Betting $5000 twice instead of $10000 at once|Refactoing test code to do the one thing|
 |Diversification|Two people betting $5000 each instead of one person betting $10000|Unit tests need to be orthogonal and independent to minimize dependencies|
-|Cut Losses and Stop Limit|The first rule never risk more than 2% of capital on any single trade,second if any single month the account loss more than 6%, stop trading for the rest of the moneth|Once a test fails, cut the corresponding production code ruthlessly and retreat to the previous state to rethink.
+|Cut Losses and Stop Limit|The first rule never risk more than 2% of capital on any single trade,second if any single month the account loss more than 6%, stop trading for the rest of the month|Once a test fails, cut the corresponding production code ruthlessly and retreat to the previous state to rethink.
