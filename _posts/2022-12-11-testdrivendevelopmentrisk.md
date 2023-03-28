@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Test Driven Development from a Risk Managment Perspective"
-date:   2023-03-26 10:59:30 -0500
+date:   2023-03-26 12:00:00 -0500
 categories: clean code
 ---
 
