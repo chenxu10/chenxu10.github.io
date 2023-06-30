@@ -7,5 +7,11 @@ categories: trading
 
 # Why test has come to the first?
 Test first is offensive and test later is defensive.
+
 Test should aim small but aim widely high.
+
 When testing you are using data to falisfy your hypothesis not proving it.
+
+# What is a testable statement?
+
+The market will not go down more than 20% in the next 3 months is a testable statements. 
