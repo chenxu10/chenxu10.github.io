@@ -18,7 +18,7 @@ Be aware what you are optimizing for. You should not be optimized for a static m
 
 ## Western Approach in Enforcing CLPR
 
-TCR(test commit || revert) is an western approach to make decision in advance before you dive into a dangerous environment.
+TCR(test commit or revert) is an western approach to make decision in advance before you dive into a dangerous environment.
 
 Just throw the key. Or Like Odysseus cages himself and asks every one to prision him before the voyage. Or you play violin with the song.
 
