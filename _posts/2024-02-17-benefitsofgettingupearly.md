@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Benefits of Getting up at Four"
-date:   2024-02-17 12:00:00 -0500
+date:   2024-02-16 12:00:00 -0500
 categories: life philosophy
 ---
 
