@@ -2,7 +2,7 @@
 layout: post
 title:  "Benefits of Getting up at Four"
 date:   2024-02-17 12:00:00 -0500
-categories: math
+categories: life philosophy
 ---
 
 1. I get a nice chunk of uninterrupted productive time at least for two hours(
@@ -20,3 +20,5 @@ move and meditate more often.
 8. You produce first thing in the morning, so later you can eat better reading raw materials(math,
 physics, life science, practioners' journal, history) with a purpose and your personal observation
 and experience.
+9. In any business,trading, and transaction, it's not what I know, but what I act on, and I act on
+early, getting up at four make you act with an edge.
