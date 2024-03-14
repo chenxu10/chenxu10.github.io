@@ -7,7 +7,7 @@ categories: life philosophy
 
 1. I get a nice chunk of uninterrupted productive time at least for two hours(
     no email, no teams, no slack, no distractions).
-2. I output sending out message becomes the top in others' mailbox.
+2. My sending out message becomes the top in others' mailbox.
 3. I become more social, confident and better leader in the conversation starting at 
 10:00. 
 4. I make more friends because the peak activity with sunshine always happen from 11:00-13:00.
@@ -21,4 +21,4 @@ move and meditate more often.
 physics, life science, practioners' journal, history) with a purpose and your personal observation
 and experience.
 9. In any business,trading, and transaction, it's not what I know, but what I act on, and I act on
-early, getting up at four make you act with an edge.
+early, getting up at four makes you act with an edge.
