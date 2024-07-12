@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coevolove with AI and Trading Neural Nets"
+title:  "Trading Neural Nets"
 date:   2024-07-11 12:00:00 -0500
 categories: life philosophy
 ---
@@ -28,3 +28,6 @@ from an abstract perspective is a huge waste. Only frugal, economical and deep c
 
 ## Business
 
+## Dynamic Hedging
+
+## Co-evolve with Neural Nets
