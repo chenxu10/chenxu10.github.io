@@ -22,10 +22,6 @@ Whatever your pitch is, include these seven talking points will definitely help:
 6. Here's a visualization of proposing data product?
 7. Ask questions, critics, feedbacks and concerns from audience.
 
-
-## How to get your data fast?
-1. [sanpy for web3 data](https://github.com/santiment/sanpy)
-
 ## How to manipulate your dataframe fast?
 Every junior data scientist will face SQL query and basic data manipulations test.
 
@@ -58,25 +54,17 @@ saves you hours or work in debugging, recalling and guessing your past self.
 ### Five Topics of Documentation
 
 1. Use one sentence to describe what problems you are trying to solve.
-
 2. What algorithms you use to solve that problem.
-
 3. How you implement that algorithm.
-
 4. What blocks and major challenges you’ve conquered?
-
 5. Where can find related references, notes and tools?
 
-### STYLES OF DOCUMENTATION
+#### STYLES OF DOCUMENTATION
 
 1. One topic at a paragraph. 
-
 2. Begin with topic sentence and follow with a specific example. Don’t forget examples.
-
 3. Use positive and active tones. 
-
 Negative: He is not often on time.
-
 Positive: He usually comes late.
 
 ### Junior vs Senior Data Scientist
