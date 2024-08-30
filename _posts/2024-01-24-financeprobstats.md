@@ -5,21 +5,27 @@ date:   2024-08-29 12:00:00 -0500
 categories: finance
 ---
 # Finance
+
+If there's only one law in trading economics like law of gravity to physics, that is low of one price and arbitarge.
+
 Cash is not a checking account. You need to change the definition of that.
 It is the risk free asset. In practice,short-term government securities issued by stable, 
 economically strong countries are often considered the closest approximation to risk-free assets.
-For now, short term T bills can be used as a proxy for risk-free asset.   
+For now, short term T bills can be used as a proxy for risk-free asset.
+
+## Allocation Between Bonds and Stocks
+
+For the risk you take you should charge reasonable premium. Also give yourself margin of safety.
+
+Think in terms of inverse of P/E. For example S&P500's earnings yield. When the earnings yield on the stock
+index is historically high relative to the bond benchmark, the investor sells some of his bonds and buys stocks. When bond yields are high compared with stocks, he shifts money from stocks back to bonds.
 
 # Probability
 Don't go from statistics to probabilities, go from probabilities to statistics.
-
 Math is not created in vain. It's generated because of the needs of commercial activities, gambling, insurance, and option trading.
-
 Simulate and visualize as a way to cheat if you cannot feel it.
-
 Probability is not a mere computation of odds on the dice or more complicated variants; 
 it is the acceptance of the lack of certainty in our knowledge and the development of methods for dealing with our ignorance.
-
 No probabilities without ergodic, don't conflate ensemble probabilities with time probabilities, statistics can only calculate on one aggregation level more than you. Survival rate doesn't make sense on you as a person. It's a clinical problem.
 
 # Statistics
