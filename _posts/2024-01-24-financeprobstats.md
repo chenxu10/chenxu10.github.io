@@ -13,6 +13,16 @@ It is the risk free asset. In practice,short-term government securities issued b
 economically strong countries are often considered the closest approximation to risk-free assets.
 For now, short term T bills can be used as a proxy for risk-free asset.
 
+When and where you will lose money, you don't have enough reservation but are forced to liquidiate.
+But at that time the price of assets you start to fall.
+
+The only goal of investing is to maximize your ending wealth. Not some expected math benchmark created by scholars.
+
+If you are a crowd follower, your final result is bound to revert to mean.
+
+If a risk mitigation strategy achieves its purpose by cost-­effectively lowering a portfolio’s risk, then adding that strategy
+raises the portfolio’s compounding over time.
+
 ## Allocation Between Bonds and Stocks
 
 For the risk you take you should charge reasonable premium. Also give yourself margin of safety.
