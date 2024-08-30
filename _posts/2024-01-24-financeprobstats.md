@@ -13,6 +13,8 @@ For now, short term T bills can be used as a proxy for risk-free asset.
 # Probability
 Don't go from statistics to probabilities, go from probabilities to statistics.
 
+Math is not created in vein. It's generated because of the needs of commercial activities, gambling, insurance, and option trading.
+
 Simulate and visualize as a way to cheat if you cannot feel it.
 
 Probability is not a mere computation of odds on the dice or more complicated variants; 
