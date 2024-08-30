@@ -6,7 +6,8 @@ categories: life philosophy
 ---
 
 1. I get a nice chunk of uninterrupted productive time at least for two hours(
-    no email, no teams, no slack, no distractions).
+    no email, no teams, no slack, no distractions).No one cares about what you
+    accomplish in small chunks, people only care about big deliverables.
 2. My sending out message becomes the top in others' mailbox.
 3. I become more social, confident and better leader in the conversation starting at 
 10:00. 
