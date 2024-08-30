@@ -22,3 +22,11 @@ it is the acceptance of the lack of certainty in our knowledge and the developme
 
 No probabilities without ergodic, don't conflate ensemble probabilities with time probabilities, statistics can only calculate on one aggregation level more than you. Survival rate doesn't make sense on you as a person. It's a clinical problem.
 
+# Statistics
+
+No statistics without logic. 
+
+A stubborn logical fallacy myself and other humans tend to make is Affirming the consequent.
+
+If p then q, we tend to confirm q is correct(Wason selection task).
+
