@@ -23,5 +23,4 @@ TCR(test commit or revert) is an western approach to make decision in advance be
 Just throw the key. Or Like Odysseus cages himself and asks every one to prision him before the voyage. Or you play violin with the song.
 
 ## Eastern Approach in Enforcing CLPR
-In order to eliminate something, you should empower it first(将欲取之必先予之). You adopt a more mindful method, you first recognize and accept it.
-You don't judge it, conceptualize it, or categorize it. Then you become curious about it and investigate your breathing, muscle tension and relaxation and body posture. Finally you feel a sense of non-attachment and emptyness.
+In order to eliminate something, you should empower it first(将欲取之必先予之). You adopt a more mindful method, you first recognize and accept it. You don't judge it, conceptualize it, or categorize it. Then you become curious about it and investigate your breathing, muscle tension and relaxation and body posture. Finally you feel a sense of non-attachment and emptyness.
