@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test Driven Development from a Risk Managment Perspective"
+title:  "A Humble Programmer's Discipline"
 date:   2022-12-11 12:00:00 -0500
 categories: clean code
 ---
@@ -22,3 +22,17 @@ The table below shows the corresponding relationship between risk management str
 |Spread|Betting $5000 twice instead of $10000 at once|Refactoing test code to do the one thing|
 |Diversification|Two people betting $5000 each instead of one person betting $10000|Unit tests need to be orthogonal and independent to minimize dependencies|
 |Cut Losses and Stop Limit|The first rule never risk more than 2% of capital on any single trade,second if any single month the account loss more than 6%, stop trading for the rest of the month|Once a test fails, cut the corresponding production code ruthlessly and retreat to the previous state to rethink.
+
+# Why test has come to the first?
+Test first is offensive and test later is defensive.
+
+Test should aim small but aim widely high.
+
+When testing you are using data to falisfy your hypothesis not proving it.
+
+# What is a testable statement?
+
+Good:The market will not go down more than 20% in the next 3 months is a testable statements. You can use data to falisfy your hypothesis, once you find one counterexample it's gone.
+
+Bad:The market never goes down 20% in the past decade. This statement evern verified by quantified data doesn't make sense, because furture is a superset
+of the past.
