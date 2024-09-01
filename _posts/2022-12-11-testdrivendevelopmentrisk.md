@@ -5,6 +5,17 @@ date:   2022-12-11 12:00:00 -0500
 categories: clean code
 ---
 
+# Coevolve with Artificial Neural Nets
+Necessary conditions for artificial neural network to work:
+- You know what you don't know
+- You know what you don't know's correct solution
+- You practice to internalize what AI is giving you
+
+For example, you know you don't know how to implement a heap and where you don't know after trial.
+You know the best heap implementation is in Princeton Algorithm text book.
+
+Only then can you ask AI.
+
 # Test Driven Development from a Risk Managment Perspective
 
 Programming is not a static event. It does not occur in just one interval of time, it is a process that happens sequentially through time. Therefore we should use multiply principles instead of add principles to maximize our compounding growth. 
