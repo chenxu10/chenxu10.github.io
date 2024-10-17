@@ -16,6 +16,6 @@ alleviate chronic pain by relearning natural movement patterns. In 2017, I was
 fasctinated by AlphaGo beating human player in I-GO and decided to break into tech
 and AI. I graduated from Cornell University with a master in statistics in 2018.
 
-Before liberty, I was formely a data scientist at Aware helping people to understand
+Before Liberty, I was formely a data scientist at Aware helping people to understand
 deeply on collaboration data generated from Teams, Workplace, and Yammer. I worked on 
 problems like toxic speech categorization, trending topic modeling and programming lanuage detections.
