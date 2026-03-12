@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "《动态对冲》选译——序言"
+title: "《动态对冲》选译——流动性与流动性黑洞"
 date:   2026-03-08 12:00:00 -0500
 categories: finance
 lang: ch
