@@ -3,6 +3,7 @@ layout: post
 title:  "Get your head straight about finance, probability and statistics"
 date:   2024-08-29 12:00:00 -0500
 categories: finance
+lang: en
 ---
 # Finance
 

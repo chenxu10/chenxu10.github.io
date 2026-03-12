@@ -3,6 +3,7 @@ layout: post
 title:  "How to Enforce Cutting the Loss and Let the Profit Run"
 date:   2024-02-08 12:00:00 -0500
 categories: trade
+lang: en
 ---
 
 Trading software and other commodities is not about the law but the enforcement of the law.

@@ -3,6 +3,7 @@ layout: post
 title:  "Data Scientists' Working Cheatsheet(ongoing)"
 date:   2024-08-28 16:45:30 -0500
 categories: datascience
+lang: en
 ---
 ## A Data Scientists' Core metrics
 

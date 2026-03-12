@@ -3,6 +3,7 @@ layout: post
 title:  "A Humble Programmer's Discipline"
 date:   2022-12-11 12:00:00 -0500
 categories: clean code
+lang: en
 ---
 
 # Coevolve with Artificial Neural Nets

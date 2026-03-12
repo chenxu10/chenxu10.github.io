@@ -3,6 +3,7 @@ layout: post
 title:  "Teach Yourself DeFi: From Client-Server to P2P Protocol"
 date:   2022-03-05 16:45:30 -0500
 categories: datascience
+lang: en
 ---
 The whole web2 economy is built in a client-server model. Big techs like Google, Facebook, Amazon, and Linkedin all use a central server to provide services. In the meantime, clients request data or write information into it.
 
