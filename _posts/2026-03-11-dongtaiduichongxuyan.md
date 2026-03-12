@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "动态对冲序言"
-date: 2026-03-12
+date:   2026-03-11 12:00:00 -0500
+categories: finance
 ---
 
 # 前言
