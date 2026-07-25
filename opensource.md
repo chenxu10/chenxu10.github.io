@@ -14,3 +14,5 @@ Live activity from GitHub will be displayed here.
 
 - [thalestradingbot](https://github.com/chenxu10/thalestradingbot)
 - [xingjian](https://github.com/chenxu10/xingjian)
+
+## Projects and Contributions
