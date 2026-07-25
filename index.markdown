@@ -9,4 +9,15 @@ layout: default
     &nbsp; | &nbsp;
     <a href="{{ '/ch/' | relative_url }}">中文</a>
   </p>
+
+  <h2 style="margin-top: 2em;">Open Source</h2>
+  <table style="margin: 1em auto; border-collapse: collapse;">
+    <tbody>
+      <tr>
+        <td style="border: 1px solid #ccc; padding: 1em 2em; font-size: 1.2em;">
+          <a href="{{ '/opensource/' | relative_url }}">Open Source</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
