@@ -6,12 +6,11 @@ permalink: /opensource/
 
 # Open Source
 
-This page is a placeholder for open source contributions and projects.
+I believe in open source as a way to learn, meet friends and give back to the community.
 
 ## What I'm Working On Now
 
 Live activity from GitHub will be displayed here.
 
-- [placeholder/repo1](https://github.com/placeholder/repo1)
-- [placeholder/repo2](https://github.com/placeholder/repo2)
-- [placeholder/repo3](https://github.com/placeholder/repo3)
+- [thalestradingbot](https://github.com/chenxu10/thalestradingbot)
+- [xingjian](https://github.com/chenxu10/xingjian)
