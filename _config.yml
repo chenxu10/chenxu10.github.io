@@ -21,7 +21,7 @@
 title: Xu Shen
 email: xs286@cornell.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Xu is a data scientist, programmer, investor, taiji practioner, and effective altruist. 
+  Xu is a data scientist, programmer, investor, and taiji practitioner. 
   In his blog, he explores explainable and benevolent AI, cryptocurrency, software engineering,
   cooperation and altruism.
 baseurl: "" # the subpath of your site, e.g. /blog
